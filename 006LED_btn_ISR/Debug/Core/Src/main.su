@@ -1,0 +1,8 @@
+main.c:83:5:main	32	static,ignoring_inline_asm
+main.c:145:6:SystemClock_Config	88	static
+main.c:190:13:MX_GPIO_Init	64	static
+main.c:453:6:button_interrupt_handler	24	static,ignoring_inline_asm
+main.c:471:13:led_green_handler	32	static
+main.c:493:13:led_red_handler	32	static
+main.c:526:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:543:6:Error_Handler	4	static,ignoring_inline_asm

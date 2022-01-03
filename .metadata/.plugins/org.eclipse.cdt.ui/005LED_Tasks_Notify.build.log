@@ -1,0 +1,10 @@
+12:41:38 **** Incremental Build of configuration Debug for project 005LED_Tasks_Notify ****
+make -j8 all 
+arm-none-eabi-size   005LED_Tasks_Notify.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30868	     28	  84636	 115532	  1c34c	005LED_Tasks_Notify.elf
+Finished building: default.size.stdout
+ 
+
+12:41:39 Build Finished. 0 errors, 0 warnings. (took 315ms)
+
